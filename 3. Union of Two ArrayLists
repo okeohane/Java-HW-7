@@ -1,3 +1,8 @@
+/*
+Prompts the user to enter two lists, each with five integers, and displays their
+union. The numbers are separated by exactly one space.
+*/
+
 package javaapplication3;
 import java.util.Scanner;
 import java.util.ArrayList;
