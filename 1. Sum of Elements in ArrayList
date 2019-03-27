@@ -1,3 +1,8 @@
+/*
+Prompts the user to enter five numbers, stores them in an array list, and
+displays their sum.
+*/
+
 package javaapplication1;
 import java.util.Scanner;
 import java.util.ArrayList;
