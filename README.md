@@ -1,5 +1,6 @@
 # Java-HW-7
-Arraylists – Three questions  Problem 1
+Arraylists – Three questions  
+Problem 1  
 Write the following method that returns the sum of all numbers in an ArrayList:
 public static double sum(ArrayList list)
 Write a test program that prompts the user to enter five numbers, stores them in an array list, and
